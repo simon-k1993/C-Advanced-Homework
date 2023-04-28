@@ -1,0 +1,15 @@
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\bin\Debug\net6.0\Homework 2.exe
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\bin\Debug\net6.0\Homework 2.deps.json
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\bin\Debug\net6.0\Homework 2.runtimeconfig.json
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\bin\Debug\net6.0\Homework 2.dll
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\bin\Debug\net6.0\Homework 2.pdb
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\obj\Debug\net6.0\Homework 2.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\obj\Debug\net6.0\Homework 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\obj\Debug\net6.0\Homework 2.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\obj\Debug\net6.0\Homework 2.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\obj\Debug\net6.0\Homework 2.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\obj\Debug\net6.0\Homework 2.dll
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\obj\Debug\net6.0\refint\Homework 2.dll
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\obj\Debug\net6.0\Homework 2.pdb
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\obj\Debug\net6.0\Homework 2.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Homework 2 C# Advanced\Homework 2 C#\Homework 2\obj\Debug\net6.0\ref\Homework 2.dll
