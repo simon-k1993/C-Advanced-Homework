@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Homework 2 C# Advanced\\Homework 2 C#\\Homework 2\\Homework 2.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\C# Advanced domasni\\C-Advanced-Homework\\Homework 2 C# Advanced\\Homework 2 C#\\Homework 2\\Homework 2.csproj",
       "projectName": "Homework 2",
-      "projectPath": "C:\\Users\\Simon\\Desktop\\Homework 2 C# Advanced\\Homework 2 C#\\Homework 2\\Homework 2.csproj",
+      "projectPath": "C:\\Users\\Simon\\Desktop\\C# Advanced domasni\\C-Advanced-Homework\\Homework 2 C# Advanced\\Homework 2 C#\\Homework 2\\Homework 2.csproj",
       "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simon\\Desktop\\Homework 2 C# Advanced\\Homework 2 C#\\Homework 2\\obj\\",
+      "outputPath": "C:\\Users\\Simon\\Desktop\\C# Advanced domasni\\C-Advanced-Homework\\Homework 2 C# Advanced\\Homework 2 C#\\Homework 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
