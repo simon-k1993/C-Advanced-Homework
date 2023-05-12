@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "FirstName": "simon",
+      "LastName": "kozoloski",
+      "Age": 0,
+      "Username": "simon123",
+      "Password": "brkovi",
+      "Activities": []
+    },
+    {
+      "FirstName": "tomo",
+      "LastName": "kozoloski",
+      "Age": 0,
+      "Username": "tomo123",
+      "Password": "brkovi",
+      "Activities": []
+    }
+  ],
+  "activities": []
+}

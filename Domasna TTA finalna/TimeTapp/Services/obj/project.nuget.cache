@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4G59VZsXo3q6CsnLeX4xsVi2W1gyAWkFZLJCDLvClpf/dMmsh25IrL6oAi5Gs6epHpsPebagNmyQWOFp2zhDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simon\\Desktop\\Novo\\TimeTapp\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "FirstName": "simon",
+    "LastName": "kozoloski",
+    "Age": 30,
+    "Username": "simon123",
+    "Password": "brkovi",
+    "Activities": [
+      {
+        "Name": "Reading",
+        "TimeSpent": 58,
+        "ExtraInfo": "Drama",
+        "Pages": 25
+      },
+      {
+        "Name": "Exercising",
+        "TimeSpent": 7,
+        "ExtraInfo": "Sport",
+        "Pages": 0
+      },
+      {
+        "Name": "Working",
+        "TimeSpent": 34,
+        "ExtraInfo": "Home",
+        "Pages": 0
+      },
+      {
+        "Name": "Other Hobbies",
+        "TimeSpent": 1,
+        "ExtraInfo": "Tv",
+        "Pages": 0
+      }
+    ]
+  }
+]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simon\\Desktop\\Domasno3\\Homework3\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Simon\\Desktop\\C# Advanced domasni\\C-Advanced-Homework\\Homework 3 C# Advanced\\Homework3\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simon\\Desktop\\Domasno3\\Homework3\\Domain\\Domain.csproj": {
+    "C:\\Users\\Simon\\Desktop\\C# Advanced domasni\\C-Advanced-Homework\\Homework 3 C# Advanced\\Homework3\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Domasno3\\Homework3\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\C# Advanced domasni\\C-Advanced-Homework\\Homework 3 C# Advanced\\Homework3\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Simon\\Desktop\\Domasno3\\Homework3\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Simon\\Desktop\\C# Advanced domasni\\C-Advanced-Homework\\Homework 3 C# Advanced\\Homework3\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\Desktop\\Domasno3\\Homework3\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Desktop\\C# Advanced domasni\\C-Advanced-Homework\\Homework 3 C# Advanced\\Homework3\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
